@@ -229,26 +229,19 @@ body {
   .total-item{
     font-weight: 700;
   }
-  .btn-Pedir{
-    border-radius: 50px;
-    font-size: 20px;
-    font-weight: 400; 
-  }
+
   .btn-Pedir{
     background-color: #ffffff;
-    width: 80%;
+    width: 90%;
     border-radius: 100px;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 20px;
     color: #50D074;
     line-height: 26px;
-    /* margin-top: 10px;
-    margin-bottom: 26px; */
-    /* display: flex; */
-    margin-left: 10%;
+    margin-left: 5%;
   }
 
 .btn-Pedir p{
-  padding: 25px 5px;
+  padding: 25px 0;
   margin: 25px 10px;
 }
